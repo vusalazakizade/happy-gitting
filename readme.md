@@ -1,4 +1,6 @@
-# Happy gitting everyone!
+# Happy gitting everyone!3
+
+Hello, everyone. This is my first time to git.
 
 This is markdown readme file.
 
